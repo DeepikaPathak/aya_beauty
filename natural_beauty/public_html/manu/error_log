@@ -1,0 +1,55 @@
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:11:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:12:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:19:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:20:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:21:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 2
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 2
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 39
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 40
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 41
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 59
+[23-Sep-2020 14:22:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu-box.php on line 60
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 37
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 38
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 49
+[23-Sep-2020 14:22:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 50
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  include_once(../config.php): failed to open stream: No such file or directory in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  include_once(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 2
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 39
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 40
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 51
+[23-Sep-2020 14:49:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 52
+[24-Sep-2020 04:06:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/p1ps4mq4h6me/public_html/manu/chatmanu.php:40) in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 94
+[24-Sep-2020 04:06:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/p1ps4mq4h6me/public_html/manu/chatmanu.php:40) in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 94
+[24-Sep-2020 04:06:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/p1ps4mq4h6me/public_html/manu/chatmanu.php:40) in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 94
+[24-Sep-2020 04:06:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/p1ps4mq4h6me/public_html/manu/chatmanu.php:40) in /home/p1ps4mq4h6me/public_html/manu/chatmanu.php on line 94
+[24-Sep-2020 04:55:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/p1ps4mq4h6me/public_html/includes/common.php on line 3
+[24-Sep-2020 04:55:31 UTC] PHP Fatal error:  Function name must be a string in /home/p1ps4mq4h6me/public_html/includes/common.php on line 3
