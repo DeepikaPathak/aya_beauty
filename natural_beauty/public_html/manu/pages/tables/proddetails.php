@@ -1,25 +1,4 @@
-	<?php
-    //session_start();
-    
-    require("../../../includes/common.php");
-    $id = $_SESSION['mid'];
-    //echo $id;
-    if(isset($_SESSION["mid"]))
-    {
-        $q = "select * from manufacts where id = $id";
-    //echo $q;
-        $result = mysqli_query($con, $q);// or die("Selecting user profile failed");
-		$rowstart = mysqli_fetch_array($result);
-		$_SESSION["name"]=$rowstart["name"];
-		$name=$_SESSION["name"];
-    // echo $id;
-    }
-    else
-    {
-     echo "<script> window.location.href='../index.php'; </script>";
-    // header('location:../index.php);
-	}
-?>
+
 
 	<?php
 
@@ -27,8 +6,8 @@
 
       $query = "SELECT * FROM manu_products WHERE manu_id ='" . $_SESSION['manu_id'] . "'  ";
       $result = mysqli_query($con, $query);
-
-      $num = mysqli_num_rows($result);
+$num = 0;
+      // $num = mysqli_num_rows($result);
 
 
 
@@ -119,7 +98,7 @@
           </li>
           
           <li class="nav-item menu-items">
-            <a class="nav-link" href="../../pages/forms/sellprod.html">
+            <a class="nav-link" href="../../pages/forms/sellprod.php">
               <span class="menu-icon">
                 <i class="mdi mdi-playlist-play"></i>
               </span>
@@ -161,7 +140,7 @@
             </ul>
             <ul class="navbar-nav navbar-nav-right">
               <li class="nav-item dropdown d-none d-lg-block">
-                <a class="nav-link btn btn-success create-new-button" href="../forms/sellprod.html">+ Add New Product</a>
+                <a class="nav-link btn btn-success create-new-button" href="../forms/sellprod.php">+ Add New Product</a>
               
               </li>
              

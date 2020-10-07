@@ -406,6 +406,8 @@
           <!-- content-wrapper ends -->
           <!-- partial:partials/_footer.html -->
           <footer class="footer">
+             <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-13e1a66f-b5ac-4afc-96d4-5647e62dd618"></div>
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
               <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="https://www.bootstrapdash.com/" target="_blank">TrojanX</a>. All rights reserved.</span>
               
